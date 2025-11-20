@@ -1,3 +1,4 @@
+
 class ElseIfDemo {
     public static void main(String[] args) {
         int temperature = 25;

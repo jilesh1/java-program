@@ -1,3 +1,4 @@
+
 class ScopeDemo {
 
     int instanceVar = 50;          

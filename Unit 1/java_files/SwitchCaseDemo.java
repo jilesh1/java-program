@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 class SwitchCaseDemo {
@@ -6,6 +7,7 @@ class SwitchCaseDemo {
 
         System.out.print("Enter day number (1-7): ");
         int day = sc.nextInt();
+   
 
         switch (day) {
             case 1: System.out.println("Today is Monday"); break;

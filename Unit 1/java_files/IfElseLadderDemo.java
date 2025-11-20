@@ -1,3 +1,4 @@
+
 class IfElseLadderDemo {
     public static void main(String[] args) {
         int marks = 82;

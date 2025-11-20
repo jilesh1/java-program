@@ -1,3 +1,4 @@
+
 class VariableDemo {
     public static void main(String[] args) {
         int age = 25;               
